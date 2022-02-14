@@ -18,7 +18,7 @@ const trasnporte = nodemailer.createTransport({
     secure: true,
     auth: {
         user: "apikey",
-        pass: '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'
+        pass: 'insertar apikey'
     }
 })
 
